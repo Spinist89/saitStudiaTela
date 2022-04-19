@@ -1,0 +1,21 @@
+:root {
+    --color1: #198754;
+    --color2: #6f42c1
+}
+/*body{*/
+/*    background-color: */
+/*}*/
+footer, section {
+    padding: 100px 0;
+}
+section{
+    padding: 0px 0;
+}
+.my-carousel .carousel-item img {
+    object-fit: cover;
+    width: 100%;
+}
+
+.index img {
+    height: 630px;
+}
