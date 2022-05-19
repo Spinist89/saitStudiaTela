@@ -2,9 +2,9 @@
     --color1: #198754;
     --color2: #6f42c1
 }
-/*body{*/
-/*    background-color: */
-/*}*/
+body{
+    background-color: #F5FFFA
+}
 footer, section {
     padding: 100px 0;
 }
