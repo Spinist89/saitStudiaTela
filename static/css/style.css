@@ -3,8 +3,11 @@
     --color2: #6f42c1
 }
 body{
-    background-color: #F5FFFA
+    background-color: #F5FFFA;
+    font-style: italic !important;
+    font-family: ‘Droid serif’, serif;
 }
+
 footer, section {
     padding: 100px 0;
 }
@@ -18,6 +21,10 @@ section{
 
 .index img {
     height: 630px;
+}
+
+.chix{
+    border-radius: 20px !important;
 }
 
 
